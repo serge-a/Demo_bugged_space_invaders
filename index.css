@@ -1,0 +1,12 @@
+html{height:100vh;}
+body{height:100vh; margin:0px; padding:0px; overflow:hidden;}
+#info{
+    position: fixed;
+    top: 0;
+    left: 0; 
+    right: 0;
+    height: 50px;
+    user-select: none;
+    text-align: center;
+    font-size: 18pt;
+}
