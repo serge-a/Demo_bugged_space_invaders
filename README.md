@@ -3,12 +3,13 @@
 Main feature: 
 Press/toggle b to unbug / bug it again. 
 
-Main porpose: pratice programming ...fun ... gain experience. 
+Main purpose: pratice programming ...fun ... gain experience. 
 The result of that => (becomming mad/crazy on bug... it is why i did that little "demo")
 
 work in progress ... 
 
-// commands 
+// commands : 
+
 a and s to move the ship or ArrowLeft, ArrowRight 
 leftClick or f key or ArrowUp key to fire
 
